@@ -160,6 +160,10 @@
                     "contextPath": "/backoffice"
                 },
                 {
+                    "name": "smartedit",
+                    "contextPath": "/smartedit"
+                },
+                {
                   "name":"odata2webservices",
                   "contextPath":"/odata2webservices"
                }
