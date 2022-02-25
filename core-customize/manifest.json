@@ -164,6 +164,42 @@
                     "contextPath": "/smartedit"
                 },
                 {
+                    "name": "smartedit",
+                  "contextPath": "/smartedit"
+                },
+                {
+                  "name": "cmssmartedit",
+                  "contextPath": "/cmssmartedit"
+                },
+                {
+                  "name": "smarteditwebservices",
+                  "contextPath": "/smarteditwebservices"
+                },
+                {
+                  "name": "cmssmarteditwebservices",
+                  "contextPath": "/cmssmarteditwebservices"
+                },
+                {
+                  "name": "cmswebservices",
+                  "contextPath": "/cmswebservices"
+                },
+                {
+                  "name": "personalizationsmartedit",
+                  "contextPath": "/personalizationsmartedit"
+                },
+                {
+                  "name": "personalizationpromotionssmartedit",
+                  "contextPath": "/personalizationpromotionssmartedit"
+                },
+                {
+                  "name": "personalizationwebservices",
+                  "contextPath": "/personalizationwebservices"
+                },
+                {
+                  "name": "personalizationsearchsmartedit",
+                  "contextPath": "/personalizationsearchsmartedit"
+                },
+                {
                   "name":"odata2webservices",
                   "contextPath":"/odata2webservices"
                }
