@@ -161,10 +161,6 @@
                 },
                 {
                     "name": "smartedit",
-                    "contextPath": "/smartedit"
-                },
-                {
-                    "name": "smartedit",
                   "contextPath": "/smartedit"
                 },
                 {
